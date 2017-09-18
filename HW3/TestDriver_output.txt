@@ -1,0 +1,22 @@
+Constructing a new MyString: AbcdefGHIj123
+charAt[0]: A
+charAt[1]: b
+charAt[2]: c
+charAt[3]: d
+charAt[4]: e
+length of MyString: 13
+substirng(2,8): cdefGH
+lowercase: abcdefghij123
+upperCase: ABCDEFGHIJ123
+
+second MyStirng: AbcdefGHIj129
+compare it with the first one using euqals(): false
+
+third MyStirng: AbcdefGHIj123
+compare it with the first one using euqals(): true
+
+get MyString using getMyString(): AbcdefGHIj123
+
+414986 to MyString: 414986
+-23412 to MyString: -23412
+0 to MyString: 0
