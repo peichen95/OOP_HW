@@ -1,0 +1,36 @@
+
+E:\Java_project\OOP_HW\HW1>java Question5
+Enter three pointsto form a triangle:
+x-coordinate for pointa: 5.4
+y-coordinate for pointa: 3.6
+x-coordinate for pointb: 8.4
+y-coordinate for pointb: 5.9
+x-coordinate for pointc: 10.9
+y-coordinate for pointc: 4.9
+a(5.40, 3.60), b(8.40, 5.90), c(10.90, 4.90)
+The three lengths for the triangle are : 3.78 5.65 2.69
+This is a real triangle
+
+E:\Java_project\OOP_HW\HW1>java Question5
+Enter three pointsto form a triangle:
+x-coordinate for pointa: 60.5
+y-coordinate for pointa: 80.78
+x-coordinate for pointb: 100.90
+y-coordinate for pointb: 500.45632
+x-coordinate for pointc: 354.154
+y-coordinate for pointc: 451.454
+a(60.50, 80.78), b(100.90, 500.46), c(354.15, 451.45)
+The three lengths for the triangle are : 421.62 472.90 257.95
+This is a real triangle
+
+E:\Java_project\OOP_HW\HW1>java Question5
+Enter three pointsto form a triangle:
+x-coordinate for pointa: 3.3
+y-coordinate for pointa: 3.3
+x-coordinate for pointb: 5.5
+y-coordinate for pointb: 5.5
+x-coordinate for pointc: 999.999
+y-coordinate for pointc: 999.999
+a(3.30, 3.30), b(5.50, 5.50), c(1000.00, 1000.00)
+The three lengths for the triangle are : 3.11 1409.55 1406.43
+This is not a real triangle

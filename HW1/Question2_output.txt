@@ -1,0 +1,12 @@
+E:\Java_project\OOP_HW\HW1>java Question2
+Enter a number:3.5
+The area of 3.5 is 38.48451000647496
+Enter a number:0
+The area of 0.0 is 0.0
+Enter a number:4.5
+The area of 4.5 is 63.61725123519331
+Enter a number:10.2564
+The area of 10.2564 is 330.47588380356365
+Enter a number:-7
+Invalid radius
+Enter a number:^Z

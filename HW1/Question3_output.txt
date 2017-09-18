@@ -1,0 +1,23 @@
+E:\Java_project\OOP_HW\HW1>java Question3
+8: August
+
+E:\Java_project\OOP_HW\HW1>java Question3
+11: November
+
+E:\Java_project\OOP_HW\HW1>java Question3
+11: November
+
+E:\Java_project\OOP_HW\HW1>java Question3
+2: February
+
+E:\Java_project\OOP_HW\HW1>java Question3
+2: February
+
+E:\Java_project\OOP_HW\HW1>java Question3
+4: April
+
+E:\Java_project\OOP_HW\HW1>java Question3
+1: January
+
+E:\Java_project\OOP_HW\HW1>java Question3
+10: Octocber

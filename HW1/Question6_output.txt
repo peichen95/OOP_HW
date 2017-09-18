@@ -1,0 +1,45 @@
+E:\Java_project\OOP_HW\HW1>java Question6
+Enter two points as the centers of two circles.
+x-and-y-coordinate for circle1: 10.5
+5
+the radius of circle1 is: 2.3
+circle1 centered at (10.50, 5.00), radius: 2.30
+x-and-y-coordinate for circle2: -2.5
+-7.8
+the radius of corcle1 is: 5.78
+circle2 centered at (-2.50, -7.80), radius: 5.78
+the distance between two circles is: 18.24
+The two circles are seperated from eache other
+
+E:\Java_project\OOP_HW\HW1>java Question6
+Enter two points as the centers of two circles.
+x-and-y-coordinate for circle1: 1 0
+the radius of circle1 is: 1
+circle1 centered at (1.00, 0.00), radius: 1.00
+x-and-y-coordinate for circle2: 3 0
+the radius of corcle1 is: 1
+circle2 centered at (3.00, 0.00), radius: 1.00
+the distance between two circles is: 2.00
+The two circles are touching each other
+
+E:\Java_project\OOP_HW\HW1>java Question6
+Enter two points as the centers of two circles.
+x-and-y-coordinate for circle1: 3 0
+the radius of circle1 is: 1
+circle1 centered at (3.00, 0.00), radius: 1.00
+x-and-y-coordinate for circle2: 4 0
+the radius of corcle1 is: 1
+circle2 centered at (4.00, 0.00), radius: 1.00
+the distance between two circles is: 1.00
+The two circles are overlapping each other
+
+E:\Java_project\OOP_HW\HW1>java Question6
+Enter two points as the centers of two circles.
+x-and-y-coordinate for circle1: 1.5 0
+the radius of circle1 is: 1.5
+circle1 centered at (1.50, 0.00), radius: 1.50
+x-and-y-coordinate for circle2: 2 0
+the radius of corcle1 is: 1
+circle2 centered at (2.00, 0.00), radius: 1.00
+the distance between two circles is: 0.50
+The two circles are completely whithin one another
