@@ -1,0 +1,30 @@
+int x = 4282;
+for(int i=0;i<35;i++){
+	System.out.printf("%d\t\t%32s\n",i,Integer.toBinaryString(x>>>i);
+}
+
+VS
+
+int x = 4282;
+for(int i=0;i<35;i++){
+	System.out.printf("%d\t\t%32s\n",i,Integer.toBinaryString(x));
+	x = x >>> i;
+}
+
+1) in n >>> m , only the five lowest order bits of m are counted. so it's actually calculated
+   as n >>> (m%32), that means, when m is greater than 31, m is reduced to the remainder of 
+   m mod 32.
+
+2) the reason why the second loop will always print 0 when i is greater than 32 is because in
+   iteration the value of x is changed, which makes x=(x>>>34) equal 0 because 0>>>2 is still 0.
+   The following code will print out exact same outputs as the first one.
+
+
+int x = 4282;
+int y;
+for(int i=0;i<35;i++){
+	y = x >>> i;
+	System.out.printf("%d\t\t%32s\n",i,Integer.toBinaryString(y));
+}
+
+// I learned it from the site: https://stackoverflow.com/questions/3170412/why-is-132-1

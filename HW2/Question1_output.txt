@@ -1,0 +1,24 @@
+E:\Java_project\OOP_HW\HW2>javac Question1.java
+
+E:\Java_project\OOP_HW\HW2>java Question1
+How many levels do you want the pyramid to be?  4
+       1
+     1 2 1
+   1 2 3 2 1
+ 1 2 3 4 3 2 1
+
+E:\Java_project\OOP_HW\HW2>java Question1
+How many levels do you want the pyramid to be?  9
+                 1
+               1 2 1
+             1 2 3 2 1
+           1 2 3 4 3 2 1
+         1 2 3 4 5 4 3 2 1
+       1 2 3 4 5 6 5 4 3 2 1
+     1 2 3 4 5 6 7 6 5 4 3 2 1
+   1 2 3 4 5 6 7 8 7 6 5 4 3 2 1
+ 1 2 3 4 5 6 7 8 9 8 7 6 5 4 3 2 1
+
+E:\Java_project\OOP_HW\HW2>java Question1
+How many levels do you want the pyramid to be?  1
+ 1

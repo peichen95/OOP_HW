@@ -1,0 +1,20 @@
+
+E:\Java_project\OOP_HW\HW2>javac Question3.java
+
+E:\Java_project\OOP_HW\HW2>java Question3
+Enter a string a check if it's a palindrome:   hello
+"hello" is not a palindrome.
+Enter a string a check if it's a palindrome   world
+"world" is not a palindrome.
+Enter a string a check if it's a palindrome   abababababa
+"abababababa" is a palindrome.
+Enter a string a check if it's a palindrome   ^_^
+"^_^" is a palindrome.
+Enter a string a check if it's a palindrome
+sad
+"sad" is not a palindrome.
+Enter a string a check if it's a palindrome   asdfgfdsa
+"asdfgfdsa" is a palindrome.
+Enter a string a check if it's a palindrome   mammal
+"mammal" is not a palindrome.
+Enter a string a check if it's a palindrome   ^Z

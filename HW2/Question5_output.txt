@@ -1,0 +1,4 @@
+E:\Java_project\OOP_HW\HW2>java Question5
+Enter some strings separated by ','
+hello,world,goodbye,world,this,is,a,string,separated,by,comma,
+hello world goodbye world this is a string separated by comma ^Z

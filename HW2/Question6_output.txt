@@ -1,0 +1,6 @@
+E:\Java_project\OOP_HW\HW2>javac Question6.java
+
+E:\Java_project\OOP_HW\HW2>java Question6
+hello world goodbye world tokenize every character
+  e l l o   w o r l d   g o o d b y e   w o r l d   t o k e n i z e   e v e r y   c h a r a c t e r
+ ^Z
