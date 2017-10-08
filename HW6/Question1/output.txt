@@ -1,0 +1,5 @@
+E:\Java_project\OOP_HW\HW6\Question1>javac child\Child.java
+
+E:\Java_project\OOP_HW\HW6\Question1>java child.Child
+calculate the sum of protected variables from parent class of different package: 10 + 20 = 30
+E:\Java_project\OOP_HW\HW6\Question1>

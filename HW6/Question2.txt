@@ -1,0 +1,60 @@
+a.
+	Dog d = new Dog();
+	System.out.println(d.call(3));
+
+  output: Woof, woof, woof!
+  this is an example of overloading
+
+b.
+	Object c = new Cat();
+	System.out.println(c);
+
+  output: I'm a cat, go away!
+  this is an example of overriding/polymorphism
+
+c.
+	Object v = new Pet();
+	System.out.println(v.call());
+
+  output: !!!
+  this is an example of polymorphism
+
+d.
+	Pet p = new Pet();
+	System.out.println(p);
+
+  output: Pet@15db9742 (reference to object p)
+  this is an example of polymorphism
+
+e.
+	Pet q = new Dog();
+	System.out.println(q.call());
+
+  output: woof!
+  this is an example of overriding/polymorphism
+
+f.
+	Cat t = new Cat();
+	System.out.println(t.toString("Come here, kitty"));
+
+  output: Come here, kitty? ... Don't waste my time.
+  this is an example of overloading
+
+g.
+	Cat u = new Cat();
+	System.out.println(u.call(3));
+
+  output: Error
+
+h.
+	Dog e = new Dog();
+	System.out.println(e.feet());
+
+  output: four
+  this is an example of polymorphism
+
+i.
+	Pet r = new Dog();
+	System.out.println(r.call(3));
+
+  output: Error
