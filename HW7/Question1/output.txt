@@ -1,0 +1,28 @@
+E:\java_project\OOP_HW\HW7\Question1>java Calculator ( 10 + 10 ) # 10
+200.0
+
+E:\java_project\OOP_HW\HW7\Question1>java Calculator 10 # ( 10 / ( ( 10 + 10 ) # 10 ) )
+0.5
+
+E:\java_project\OOP_HW\HW7\Question1>java Calculator 10 # ( 10 / ( 10 + ( 10 + 10 ) # 10 - 10 ) + 10 ) / 10
+10.05
+
+E:\java_project\OOP_HW\HW7\Question1>java Calculator ( ( ( + +
+UserIsADumbassException: enter some numbers to be operated you dumbass
+        at Calculator.infixToPostfix(Calculator.java:77)
+        at Calculator.main(Calculator.java:87)
+
+E:\java_project\OOP_HW\HW7\Question1>java Calculator a + b # ( c - d )
+LookAtMrAlgebraOverHereException: a: not a number
+        at Calculator.infixToPostfix(Calculator.java:29)
+        at Calculator.main(Calculator.java:87)
+
+E:\java_project\OOP_HW\HW7\Question1>java Calculator 10 % 2
+IllegalOperationException: %: operation unsupported
+        at Calculator.infixToPostfix(Calculator.java:54)
+        at Calculator.main(Calculator.java:87)
+
+E:\java_project\OOP_HW\HW7\Question1>java Calculator 10 !
+IllegalOperationException: !: operation unsupported
+        at Calculator.infixToPostfix(Calculator.java:54)
+        at Calculator.main(Calculator.java:87)

@@ -1,0 +1,13 @@
+E:\java_project\OOP_HW\HW7>javac OutputAndInput.java
+
+E:\java_project\OOP_HW\HW7>java OutputAndInput
+s1: normal string
+s2: null
+s3: static string
+
+E:\java_project\OOP_HW\HW7>javac OutputAndInput.java
+
+E:\java_project\OOP_HW\HW7>java OutputAndInput
+s1: normal string
+s2: null
+s3: null
