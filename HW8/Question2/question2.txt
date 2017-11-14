@@ -1,0 +1,4 @@
+When the user selects text in the console window, the standard output pipe is blocked.
+But it does not blocked any other threads or child progress
+
+https://stackoverflow.com/questions/15655903/what-really-happens-when-the-a-program-is-paused-by-editmark-from-the-command-l

@@ -1,0 +1,245 @@
+java_project
+|---Alpaca
+|   |---.classpath
+|   |---.project
+|   |---.settings
+|   |   |---org.eclipse.jdt.core.prefs
+|   |---bin
+|   |   |---Alpaca.class
+|   |---src
+|   |   |---Alpaca.java
+|---animal and plant
+|   |---src
+|   |   |---BarnYardNonOO.java
+|   |   |---edu
+|   |   |   |---cuny
+|   |   |   |   |---cisc3120
+|   |   |   |   |   |---homework2
+|   |   |   |   |   |   |---model
+|   |   |   |   |   |   |   |---Animal.java
+|   |   |   |   |   |   |   |---Bear.java
+|   |   |   |   |   |   |   |---Cow.java
+|   |   |   |   |   |   |   |---Dog.java
+|   |   |   |   |   |   |   |---Flower.java
+|   |   |   |   |   |   |   |---Grass.java
+|   |   |   |   |   |   |   |---Iguana.java
+|   |   |   |   |   |   |   |---Mammal.java
+|   |   |   |   |   |   |   |---Plant.java
+|   |   |   |   |   |   |   |---Reptile.java
+|   |   |   |   |   |   |   |---Thing.java
+|   |   |---Homework.java
+|   |   |---NonOO.java
+|   |   |---README.md
+|---gif
+|   |---images
+|   |   |---...1.png
+|   |   |---...10.png
+|   |   |---...11.png
+|   |   |---...12.png
+|   |   |---...13.png
+|   |   |---...2.png
+|   |   |---...3.png
+|   |   |---...4.png
+|   |   |---...5.png
+|   |   |---...6.png
+|   |   |---...7.png
+|   |   |---...8.png
+|   |   |---...9.png
+|   |   |---cat1.png
+|   |   |---cat10.png
+|   |   |---cat2.png
+|   |   |---cat3.png
+|   |   |---cat4.png
+|   |   |---cat5.png
+|   |   |---cat6.png
+|   |   |---cat7.png
+|   |   |---cat8.png
+|   |   |---cat9.png
+|   |   |---hahaha1.png
+|   |   |---hahaha10.png
+|   |   |---hahaha11.png
+|   |   |---hahaha2.png
+|   |   |---hahaha3.png
+|   |   |---hahaha4.png
+|   |   |---hahaha5.png
+|   |   |---hahaha6.png
+|   |   |---hahaha7.png
+|   |   |---hahaha8.png
+|   |   |---hahaha9.png
+|   |---src
+|   |   |---example.gif
+|   |   |---ImagePanel.java
+|   |   |---MultiThread.java
+|   |   |---README.md
+|   |   |---SingleThread.java
+|---guess game
+|   |---src
+|   |   |---guessgame
+|   |   |   |---GuessGameHomework.java
+|   |   |   |---vehicle.java
+|---gui guess game
+|   |---gui guess game
+|   |   |---edu
+|   |   |   |---cuny
+|   |   |   |   |---brooklyn
+|   |   |   |   |   |---cisc3120
+|   |   |   |   |   |   |---Gui.java
+|   |   |---README.md
+|---Hello
+|   |---.classpath
+|   |---.project
+|   |---.settings
+|   |   |---org.eclipse.jdt.core.prefs
+|   |---bin
+|   |   |---Hello.class
+|   |---src
+|   |   |---Hello.java
+|---Input and File
+|   |---.classpath
+|   |---.project
+|   |---.settings
+|   |   |---org.eclipse.jdt.core.prefs
+|   |---bin
+|   |   |---FileScanner.class
+|   |   |---KeyboardScanner.class
+|   |---in.txt
+|   |---src
+|   |   |---FileScanner.java
+|   |   |---KeyboardScanner.java
+|---MovableInterface
+|   |---.classpath
+|   |---.project
+|   |---.settings
+|   |   |---org.eclipse.jdt.core.prefs
+|   |---bin
+|   |   |---Movable.class
+|   |   |---MovablePoint.class
+|   |   |---TestMovable.class
+|   |---src
+|   |   |---Movable.java
+|   |   |---MovablePoint.java
+|   |   |---TestMovable.java
+|---OOP_HW
+|   |---HW1
+|   |   |---1
+|   |   |---Question2.java
+|   |   |---Question2_output.txt
+|   |   |---Question3.java
+|   |   |---Question3_output.txt
+|   |   |---Question4.java
+|   |   |---Question4_output.txt
+|   |   |---Question4_text.txt
+|   |   |---Question5.java
+|   |   |---Question5_output.txt
+|   |   |---Question6.java
+|   |   |---Question6_output.txt
+|   |---HW2
+|   |   |---Question1.java
+|   |   |---Question1_output.txt
+|   |   |---Question2.java
+|   |   |---Question2_output.txt
+|   |   |---Question3.java
+|   |   |---Question3_output.txt
+|   |   |---Question4.txt
+|   |   |---Question5.java
+|   |   |---Question5_output.txt
+|   |   |---Question6.java
+|   |   |---Question6_output.txt
+|   |---HW3
+|   |   |---TestDriver.java
+|   |   |---TestDriver_output.txt
+|   |---HW4
+|   |   |---NQueens.java
+|   |   |---NQueens_output.txt
+|   |---HW5
+|   |   |---MonteCarlo.java
+|   |   |---MonteCarlo_output.txt
+|   |---HW6
+|   |   |---Question1
+|   |   |   |---child
+|   |   |   |   |---Child.java
+|   |   |   |---output.txt
+|   |   |   |---parent
+|   |   |   |   |---Parent.java
+|   |   |---Question2.txt
+|   |---HW7
+|   |   |---Question1
+|   |   |   |---Calculator.java
+|   |   |   |---output.txt
+|   |   |---Question2
+|   |   |   |---output.txt
+|   |   |   |---OutputAndInput.java
+|   |---HW8
+|   |   |---Question1
+|   |   |   |---dir_tree.txt
+|   |   |   |---FileTree.class
+|   |   |   |---FileTree.java
+|   |   |---Question2
+|   |   |   |---question2.txt
+|---PointClass
+|   |---.classpath
+|   |---.project
+|   |---.settings
+|   |   |---org.eclipse.jdt.core.prefs
+|   |---bin
+|   |   |---Point2D.class
+|   |   |---Point3D.class
+|   |   |---TestDriver.class
+|   |---src
+|   |   |---Point2D.java
+|   |   |---Point3D.java
+|   |   |---TestDriver.java
+|---String Operation
+|   |---.classpath
+|   |---.project
+|   |---.settings
+|   |   |---org.eclipse.jdt.core.prefs
+|   |---bin
+|   |   |---CheckVowelsDigits.class
+|   |   |---ReverseString.class
+|   |---src
+|   |   |---CheckVowelsDigits.java
+|   |   |---ReverseString.java
+|---String split()
+|   |---.classpath
+|   |---.project
+|   |---.settings
+|   |   |---org.eclipse.jdt.core.prefs
+|   |---bin
+|   |   |---splitTest.class
+|   |---src
+|   |   |---splitTest.java
+|---test
+|   |---FormatterTest.class
+|   |---FormatterTest.java
+|   |---RandomTest.class
+|   |---text.txt
+|---TestNumberCurrencyFormat
+|   |---.classpath
+|   |---.project
+|   |---.settings
+|   |   |---org.eclipse.jdt.core.prefs
+|   |---bin
+|   |   |---TestNumberCurrencyFormat.class
+|   |---src
+|   |   |---TestNumberCurrencyFormat.java
+|---thread lecture
+|   |---ThreadingExample.java
+|   |---ThreadingExampleWithLock.java
+|   |---ThreadingExampleWithSpinLock.java
+|   |---ThreadingExampleWithSync.java
+|---Time Class
+|   |---.classpath
+|   |---.project
+|   |---.settings
+|   |   |---org.eclipse.jdt.core.prefs
+|   |---bin
+|   |   |---TestTime.class
+|   |   |---Time.class
+|   |---src
+|   |   |---TestTime.java
+|   |   |---Time.java
+|---vehicle
+|   |---src
+|   |   |---vehicle
+|   |   |   |---vehicle.java
