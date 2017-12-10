@@ -1,0 +1,23 @@
+E:\java_project\OOP_HW\HW10>javac plugin\myplugin.java plugin\PluginOne.java plugin\PluginTwo.java
+
+E:\java_project\OOP_HW\HW10>javac TestDriver.java
+
+E:\java_project\OOP_HW\HW10>java TestDriver
+Selecg which plugin you want to use: PluginOne or PluginTwo
+saf
+Please select PluginOne or PluginTwo
+PluginOne
+
+
+You select class plugin.PluginOne
+PluginOne Says Hello
+PluginOne Says Bye
+
+E:\java_project\OOP_HW\HW10>java TestDriver
+Selecg which plugin you want to use: PluginOne or PluginTwo
+PluginTwo
+
+
+You select class plugin.PluginTwo
+PluginTwo Says Hello
+PluginTwo Says Bye
